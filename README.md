@@ -1,5 +1,10 @@
 # GVer
 
+Install from [PyPI](https://pypi.org/project/gver/):
+
+```
+pip install gver
+```
 
 https://user-images.githubusercontent.com/57521167/188253395-374dde18-8ce5-42c0-8f70-4d075bbb6ba7.mp4
 
