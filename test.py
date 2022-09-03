@@ -1,6 +1,3 @@
-# GVer
-
-```python
 from manim import *
 from gver import GVer
 
@@ -22,4 +19,3 @@ class Demo(Scene):
 
         gver.close_eye(left=True)
         self.wait()
-```
